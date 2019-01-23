@@ -1,1 +1,1 @@
-# MLND-P6-Dog-Capstone-Project
+# MLND-P6-Capstone-Project
