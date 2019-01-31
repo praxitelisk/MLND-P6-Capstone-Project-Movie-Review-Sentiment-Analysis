@@ -13,6 +13,19 @@ https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only
 - https://www.kaggle.com/praxitelisk/moviereview-4-dl-and-train-word-embeddings
 - https://www.kaggle.com/praxitelisk/moviereview-5-dl-and-pre-trained-embeddings
 
+### Libraries:
+- pandas
+- numpy
+- sklearn
+- Keras
+- gensim
+- textblob
+- GLoVe
+- Plotly
+- Bokeh
+- Seaborn
+
+
 ![](https://cdn.steemitimages.com/DQmQZCf7ME7Haj3X3MzXtG8R8JtGmTpuh5NXDSd3wKueva7/rottentomatoes.png)
 
 ![Sentiment](https://www.kdnuggets.com/images/sentiment-fig-1-689.jpg)
